@@ -1,3 +1,5 @@
+A Visual view of even loop & call stack...
+![event loop in JavaScript](https://user-images.githubusercontent.com/53251300/208723393-eec243f3-b836-475c-a9d6-7e3d8b7b164b.png)
 # DOM-and-Virtual-DOM
 Explaining the working of DOM and what is Virtual DOM and how to Manipulate it. 
 
